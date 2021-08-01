@@ -1,0 +1,28 @@
+[FINER] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main() : ENTRY
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Launching thread: 0
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Thread created: Thread-0
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Launching thread: 1
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Thread created: Thread-1
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Launching thread: 2
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Thread created: Thread-2
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Launching thread: 3
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Thread created: Thread-3
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Launching thread: 4
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Thread created: Thread-4
+[INFO] - Tue Aug 08 15:38:54 IST 2017 : section2_recipe6.Main.main : Ten Threads created. Waiting for its finalization
+[FINER] - Tue Aug 08 15:38:54 IST 2017 : Thread-1.run() : ENTRY
+[FINER] - Tue Aug 08 15:38:54 IST 2017 : Thread-3.run() : ENTRY
+[FINER] - Tue Aug 08 15:38:54 IST 2017 : Thread-0.run() : ENTRY
+[FINER] - Tue Aug 08 15:38:54 IST 2017 : Thread-2.run() : ENTRY
+[FINER] - Tue Aug 08 15:38:54 IST 2017 : Thread-4.run() : ENTRY
+[FINER] - Tue Aug 08 15:38:56 IST 2017 : Thread-0.run() : RETURN
+[FINER] - Tue Aug 08 15:38:56 IST 2017 : Thread-2.run() : RETURN
+[FINER] - Tue Aug 08 15:38:56 IST 2017 : Thread-4.run() : RETURN
+[INFO] - Tue Aug 08 15:38:56 IST 2017 : section2_recipe6.Main.main : Thread has finished its execution
+[FINER] - Tue Aug 08 15:38:56 IST 2017 : Thread-1.run() : RETURN
+[INFO] - Tue Aug 08 15:38:56 IST 2017 : section2_recipe6.Main.main : Thread has finished its execution
+[INFO] - Tue Aug 08 15:38:56 IST 2017 : section2_recipe6.Main.main : Thread has finished its execution
+[FINER] - Tue Aug 08 15:38:56 IST 2017 : Thread-3.run() : RETURN
+[INFO] - Tue Aug 08 15:38:56 IST 2017 : section2_recipe6.Main.main : Thread has finished its execution
+[INFO] - Tue Aug 08 15:38:56 IST 2017 : section2_recipe6.Main.main : Thread has finished its execution
+[FINER] - Tue Aug 08 15:38:56 IST 2017 : section2_recipe6.Main.main() : RETURN
